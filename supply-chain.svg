@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 64 64" viewBox="0 0 64 64" id="SupplyChain">
+  <polyline fill="#b5b5b5" points="18.428 55.791 20 44 24 44 25.799 57.492" class="colorb5b5b5 svgShape"></polyline>
+  <polygon fill="#c9c9c9" points="25.799 57.492 24 44 22.201 44 20.563 56.284" class="colorc9c9c9 svgShape"></polygon>
+  <polyline fill="#b5b5b5" points="7.428 48.791 9 37 13 37 14.799 50.492" class="colorb5b5b5 svgShape"></polyline>
+  <polygon fill="#c9c9c9" points="14.799 50.492 13 37 11.201 37 9.563 49.284" class="colorc9c9c9 svgShape"></polygon>
+  <circle cx="53" cy="43" r="6" fill="#9c721d" class="color1d549c svgShape"></circle>
+  <path fill="#9c721d" d="M62,62H44v-4c0-4.971,4.029-9,9-9h0c4.971,0,9,4.029,9,9V62z" class="color1d549c svgShape"></path>
+  <path fill="#b2852b" d="M53 49c-2.308 0-4.407.876-6 2.305V55c0 2.209 1.791 4 4 4h11v-1C62 53.029 57.971 49 53 49zM53 37c-1.144 0-2.209.326-3.119.881C49.326 38.791 49 39.856 49 41c0 3.314 2.686 6 6 6 1.144 0 2.209-.326 3.119-.881C58.674 45.209 59 44.144 59 43 59 39.686 56.314 37 53 37z" class="color2b6bb2 svgShape"></path>
+  <path fill="#c8aa6e" d="M38.16,37.33c0,0,0,0,0,0.01l0.91,0.9l-2.83,2.83l-0.91-0.91c-0.42,0.23-0.87,0.41-1.33,0.55V42h-4
+		v-1.29c-0.46-0.14-0.91-0.32-1.33-0.55l-0.91,0.91l-2.83-2.83l0.91-0.9c0-0.01,0-0.01,0-0.01c-0.23-0.42-0.41-0.87-0.55-1.33H24v-4
+		h1.29c0.14-0.46,0.32-0.91,0.55-1.33l-0.91-0.91l2.83-2.83l0.9,0.91c0.01,0,0.01,0,0.01,0c0.42-0.23,0.87-0.41,1.33-0.55V26h4v1.29
+		c0.46,0.14,0.91,0.32,1.33,0.55c0,0,0,0,0.01,0l0.9-0.91l2.83,2.83l-0.91,0.91c0.23,0.42,0.41,0.87,0.55,1.33H40v4h-1.29
+		C38.57,36.46,38.39,36.91,38.16,37.33z" class="colore7b541 svgShape"></path>
+  <path fill="#f9cb6e" d="M38.16,30.67l0.91-0.91l-2.83-2.83l-0.9,0.91c-0.01,0-0.01,0-0.01,0c-0.42-0.23-0.87-0.41-1.33-0.55
+		V26h-4v1.29c-0.46,0.14-0.91,0.32-1.33,0.55c0,0,0,0-0.01,0l-0.9-0.91L27,27.69V32c0,3.866,3.134,7,7,7h4.31l0.76-0.76l-0.91-0.9
+		c0-0.01,0-0.01,0-0.01c0.23-0.42,0.41-0.87,0.55-1.33H40v-4h-1.29C38.57,31.54,38.39,31.09,38.16,30.67z" class="colorf9cb6e svgShape"></path>
+  <circle cx="32" cy="34" r="3" fill="#ffffff" class="colorffffff svgShape"></circle>
+  <polyline fill="#777777" points="4 58 4 48 30 54 30 58" class="color777777 svgShape"></polyline>
+  <polygon fill="#42413f" points="13.533 41 8.467 41 9 37 13 37" class="color3f4042 svgShape"></polygon>
+  <rect width="30" height="4" x="2" y="58" fill="#42413f" class="color3f4042 svgShape"></rect>
+  <polyline fill="#969696" points="48 15 48 7 45 2 36 2 36 15" class="color969696 svgShape"></polyline>
+  <path fill="#b5b5b5" d="M38,2v8c0,1.657,1.343,3,3,3h7V7l-3-5H38z" class="colorb5b5b5 svgShape"></path>
+  <polygon fill="#e7bf6e" points="36 8 48 8 48 7 45 2 36 2" class="color6ec5e7 svgShape"></polygon>
+  <polygon fill="#f7d592" points="38 2 38 8 48 8 48 7 45 2" class="color92e0f7 svgShape"></polygon>
+  <rect width="34" height="4" x="15" y="15" fill="#969696" class="color969696 svgShape"></rect>
+  <circle cx="27" cy="21" r="2" fill="#42413f" class="color3f4042 svgShape"></circle>
+  <circle cx="44" cy="21" r="2" fill="#42413f" class="color3f4042 svgShape"></circle>
+  <polyline fill="#a37e33" points="17 15 17 2 32 2 32 15" class="colora34b33 svgShape"></polyline>
+  <path fill="#b5b5b5" d="M19,17h30v-2H17C17,16.105,17.895,17,19,17z" class="colorb5b5b5 svgShape"></path>
+  <polygon fill="#5d5c5a" points="41 7 41 2 39 2 39 7 36 7 36 9 48 9 48 7" class="color5a5b5d svgShape"></polygon>
+  <path fill="#c69e4e" d="M19,10c0,1.657,1.343,3,3,3h10V2H19V10z" class="colorc6644e svgShape"></path>
+  <path fill="#969696" d="M6,52c0,2.209,1.791,4,4,4h20v-2L6,48.462V52z" class="color969696 svgShape"></path>
+  <path fill="#5d5c5a" d="M6,60h26v-2H4C4,59.105,4.895,60,6,60z" class="color5a5b5d svgShape"></path>
+  <polygon fill="#5d5c5a" points="13 37 11.201 37 10.668 41 13.533 41" class="color5a5b5d svgShape"></polygon>
+  <polygon fill="#42413f" points="24.533 48 19.467 48 20 44 24 44" class="color3f4042 svgShape"></polygon>
+  <polygon fill="#5d5c5a" points="24 44 22.201 44 21.668 48 24.533 48" class="color5a5b5d svgShape"></polygon>
+</svg>
